@@ -1,0 +1,6 @@
+.vscode/**
+first_app/__pycache__/**
+first_project/__pycache__/**
+first_app/migrations/__pycache__/**
+.swp
+db.sqlite3
